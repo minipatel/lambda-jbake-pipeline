@@ -1,0 +1,5 @@
+.idea
+*.iml
+target
+sls-props.yml
+.serverless
